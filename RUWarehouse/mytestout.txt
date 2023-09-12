@@ -1,0 +1,12 @@
+[
+	{null}
+	{null; (Hoodie: 10, 8); (T-shirt: 36, 19)}
+	{null; (Lanyard: 13, 14); (Notebook: 48, 23); (Pants: 39, 15)}
+	{null; (Sunglasses: 21, 20)}
+	{null; (Stickers: 29, 30)}
+	{null}
+	{null}
+	{null}
+	{null}
+	{null}
+]
